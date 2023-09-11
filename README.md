@@ -8,7 +8,6 @@ This project show 20 characters from Rick and Morty from api https://rickandmort
 - [Built With](#built-with)
 - [Authors](#authors)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Getting Started
 
@@ -45,7 +44,3 @@ List the technologies, libraries, and frameworks used in your project.
 ## License
 
 This project is licensed under the [MIT](LICENSE.md) - see the [LICENSE.txt](LICENSE.md) file for details.
-
-## Acknowledgments
-
-Acknowledge any inspiration, third-party libraries, tutorials, or resources that helped you in your project.
