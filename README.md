@@ -5,9 +5,11 @@ This project show 20 characters from Rick and Morty from api https://rickandmort
 ## Table of Contents
 
 - [Getting Started](#getting-started)
+- [Screenshots](#screenshots)
 - [Built With](#built-with)
 - [Authors](#authors)
 - [License](#license)
+
 
 ## Getting Started
 
@@ -26,6 +28,14 @@ npm run dev
 ```
 
 3. Open http://localhost:3000/ on browser
+
+## Screenshots
+
+### Main Page
+![Main Page](/src/picture/main_page.png "Main Page of the Project")
+
+### Pagination
+![Pagination](src/picture/pagenation.png "Pagination Example")
 
 ## Built With
 
